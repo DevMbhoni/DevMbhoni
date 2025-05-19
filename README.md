@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevMbhoni](https://github.com/DevMbhoni)
 
-- 📝 I regularly write articles on [Coming soon: I plan to write about my experience building full-stack desktop apps and learning backend frameworks.](Coming soon: I plan to write about my experience building full-stack desktop apps and learning backend frameworks.)
+- 📝 I regularly write articles on [Coming soon: I plan to write about my experience building full-stack desktop apps and learning backend frameworks.].
 
 - 💬 Ask me about **Debugging Java/C# code, student mentorship, and building your first database app.**
 
