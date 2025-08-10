@@ -23,8 +23,6 @@
 
 - 📫 How to reach me **shipalanambhoniii@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1W3kUD0VNi2AcuLPA6Fk7M-qphX9dKuj8/view?usp=sharing](https://drive.google.com/file/d/1W3kUD0VNi2AcuLPA6Fk7M-qphX9dKuj8/view?usp=sharing)
-
 - ⚡ Fun fact **I built my first real app before finishing university — and I love helping others debug their code more than my own.**
 
 <h3 align="left">Connect with me:</h3>
