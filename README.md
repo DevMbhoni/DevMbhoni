@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tiddo Shipalana 👋</h1>
+<h1 align="center">Hi, I'm Mbhoni Shipalana 👋</h1>
 
 <p align="center">
   <b>Graduate Software Engineer & Data Analyst</b><br/>
