@@ -86,12 +86,6 @@ I'm a graduate software engineer with a strong foundation in both **software dev
 
 ## 📂 Other Projects
 
-### 🌳 Genealogy Database — Java
-Tree-based family relationship system using Union-Find with union-by-size heuristic. Efficient ancestry queries on large datasets.
-
-### ↩️ Undoable Command System — Java
-Implementation of the Command design pattern with full undo/redo stack. Demonstrates behavioural design patterns in practice.
-
 ### 🎵 Music Collection Manager — Java + SQL Server
 CRUD application for managing music collections using SQL Server. Full database integration with clean Java UI.
 
@@ -103,6 +97,9 @@ Statistical classification project using preprocessing pipelines and ML models t
 
 ### 🏫 NextStepUni — JavaFX (Group Project)
 University and scholarship exploration platform built as a team project, demonstrating collaborative software development.
+
+### 🏫 NextStepUni - ASP.NET + REACT + SQL SEARVER
+University and scholarship exploration platform, an extension of my final year project "NextStepUni — JavaFX (Group Project)"
 
 ---
 
@@ -132,7 +129,7 @@ Nelson Mandela University · Feb 2024 – Nov 2025
 I'm actively looking for graduate opportunities in software engineering or data analytics. Feel free to reach out!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/mbhoni-shipalana-83b9b826b">LinkedIn</a> ·
   <a href="mailto:youremail@gmail.com">Email</a> ·
   <a href="https://github.com/DevMbhoni">GitHub</a>
 </p>
